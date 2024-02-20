@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    padding: 10;
+    background-color: rgb(0, 136, 255);
+}
+#divh1 {
+    text-align: center;
+    padding: 10;
+    background-color: rgb(255, 255, 255);
+}
+.divsfeias {
+    background-color: blue;
+}
